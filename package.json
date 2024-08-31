@@ -41,7 +41,7 @@
     "rf-release": "0.4.0",
     "sinon": "^1.17.3",
     "uglify-js": "2.4.24",
-    "webpack": "^1.12.14",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "3.1.11"
   },
   "dependencies": {
